@@ -1,21 +1,22 @@
 # Chatbot
-The above code is for a chatbot in Python
+The above code is for a chatbot in Python 
 
 ## Clone the repository
       git clone https://github.com/Khodwepratik/Chatbot.git
 
-# Install the dependencies for executing the code 
+## Install the dependencies for executing the code 
       
-    ## Install the following packages using pip install 
+    Install the following packages using pip install 
       Flask==2.0.2
-      PyMuPDF==1.19.13
+      PyMuPDF==1.19.13    (sometimes you may need to install fitz also)
       spacy==3.2.1
+      
 
 ## Download the Spycy language model
     python -m spacy download en_core_web_sm
 
 
-# Run the flask application 
+## Run the flask application 
      python app.py    
 
  1. Open Your Browser and Navigate to http://127.0.0.1:5000    
@@ -27,8 +28,8 @@ The above code is for a chatbot in Python
       2. PyMuPDF (fitz)
       3. spaCy
 
-##Notes
+## Notes
 1. The dataset is loaded from a JSON file (data.json). Which is having the basic format questions.
 2. The PDF document is loaded using PyMuPDF (fitz).
 3. Ensure the paths of the code correctly
-4. The application uses spaCy for natural language processing tasks such as tokenization and entity recognition.
+
