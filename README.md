@@ -1,6 +1,8 @@
 # Chatbot
 The above code is for a chatbot in Python
 
+# Clone the repository
+
 
 # Install the dependencies for executing the code 
       
@@ -16,7 +18,17 @@ The above code is for a chatbot in Python
 # Run the flask application 
      python app.py    
 
-## 1. Open Your Browser and Navigate to http://127.0.0.1:5000    
-## 2. Enter your query in the input box and submit the form.
-## 3. The application will search the dataset and PDF document for relevant information and display the answer.
+ 1. Open Your Browser and Navigate to http://127.0.0.1:5000    
+ 2. Enter your query in the input box and submit the form.
+ 3. The application will search the dataset and PDF document for relevant information and display the answer.
     
+## Dependencies
+      1. Flask
+      2. PyMuPDF (fitz)
+      3. spaCy
+
+##Notes
+1. The dataset is loaded from a JSON file (data.json). Which is having the basic format questions.
+2. The PDF document is loaded using PyMuPDF (fitz).
+3. Ensure the paths of the code correctly
+4. The application uses spaCy for natural language processing tasks such as tokenization and entity recognition.
