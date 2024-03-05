@@ -1,0 +1,112 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Greetings! Welcome to KCS- Sales and Services.... How May I Help You?"
+    },
+    {
+      "question": "What products and services does your company offer?",
+      "answer": "We offer customizable software solutions for the financial domain, tailored to meet the unique needs of our clients."
+    },
+    {
+      "question": "How does your company ensure the security of customer data and operations?",
+      "answer": "Our software framework includes multi-layer security, tight controls, user access levels, maker-checker functions, and extensive logging for data security."
+    },
+    {
+      "question": "Can your products scale as our user base grows?",
+      "answer": "Yes, our products are designed with a clean architecture and sound design principles to ensure scalability and high performance, even as your user base expands."
+    },
+    {
+      "question": "How modular are your products, and can we choose specific modules to suit our business needs?",
+      "answer": "Our products have a modular structure, allowing you to select specific modules that align with your business needs."
+    },
+    {
+      "question": "How does your company handle integration with other systems?",
+      "answer": "Our products are designed with APIs and interfaces to ensure seamless integration with the rest of your operational environment."
+    },
+    {
+      "question": "What kind of support services does your company provide?",
+      "answer": "We offer a full-service approach, including functional consulting, program management, and remote support to ensure the highest levels of support for our products."
+    },
+    {
+      "question": "What is your company's experience in the banking domain?",
+      "answer": "We specialize in the financial domain, providing solutions for banking and other financial institutions."
+    },
+    {
+      "question": "Can you provide examples of successful implementations in similar industries?",
+      "answer": "Certainly, we've successfully implemented solutions like DEBOS, which processes over 1 million transactions a day."
+    },
+    {
+      "question": "How customizable are your products to our unique operational workflow?",
+      "answer": "Emphasize the company's commitment to crafting products that immerse themselves in the customer's environment and interface seamlessly with their operational workflow."
+    },
+    {
+      "question": "What is the pricing model for your products?",
+      "answer": "For detailed pricing information, we recommend reaching out to our sales team through our website or contact channels."
+    },
+    {
+      "question": "How can I request a demo or trial of your products?",
+      "answer": "You can easily request a demo through our website, and we'll be happy to showcase our products to you."
+    },
+    {
+      "question": "Can you explain the process of implementing your products in our organization?",
+      "answer": "The implementation process involves collaboration between our team and yours, ensuring a smooth and efficient transition."
+    },
+    {
+      "question": "What kind of customer support is available, and what are the response times?",
+      "answer": "Detail the levels of customer support offered, including response times for addressing queries or issues."
+    },
+    {
+      "question": "Is training provided for our team upon product implementation?",
+      "answer": "Yes, we provide training programs to ensure your team is proficient in using our products after implementation."
+    },
+    {
+      "question": "How frequently are updates and new features released for your products?",
+      "answer": "We regularly release updates to ensure our products stay current and aligned with industry needs."
+    },
+    {
+      "question": "Are there any specific industries or business sizes that your products are best suited for?",
+      "answer": "Provide insights into the target industries or business sizes where the company's products have proven to be particularly effective."
+    },
+    {
+      "question": "Can you share customer testimonials or references from previous clients?",
+      "answer": "Certainly, we have positive testimonials from satisfied clients, and we can provide references upon request."
+    },
+    {
+      "question": "What sets your company apart from competitors in the financial software industry?",
+      "answer": "Our focus on customization, security, scalability, and strong banking domain expertise distinguishes us in the financial software industry."
+    },
+    {
+      "question": "How can we request additional features or customization for your products?",
+      "answer": "Explain the process for submitting feature requests or discussing additional customization options to meet specific business needs."
+    },
+    {
+      "question": "What is the pricing structure for ongoing support and maintenance?",
+      "answer": "Clarify how support and maintenance are priced, including any ongoing fees or subscription models."
+    },
+    {
+      "question": "How does your company ensure data security?",
+      "answer": "Our software framework includes multi-layer security, tight controls, user access levels, maker-checker functions, and extensive logging for data security."
+    },
+    {
+      "question": "What industries does your company specialize in?",
+      "answer": "We specialize in the financial domain, providing solutions for banking and other financial institutions."
+    },
+    {
+      "question": "How modular are your products?",
+      "answer": "Our products have a modular structure, allowing you to select specific modules that align with your business needs."
+    },
+    {
+      "question": "What kind of support services do you provide?",
+      "answer": "We offer a full-service approach, including functional consulting, program management, and remote support to ensure the highest levels of support for our products."
+    },
+    {
+      "question": "Can you provide examples of successful implementations?",
+      "answer": "Certainly, we've successfully implemented solutions like DEBOS, which processes over 1 million transactions a day."
+    },
+    {
+      "question": "How can I request a demo of your products?",
+      "answer": "You can easily request a demo through our website, and we'll be happy to showcase our products to you."
+    }
+  ]
+}
