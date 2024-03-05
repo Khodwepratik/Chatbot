@@ -1,8 +1,8 @@
 # Chatbot
 The above code is for a chatbot in Python
 
-# Clone the repository
-
+## Clone the repository
+      git clone https://github.com/Khodwepratik/Chatbot.git
 
 # Install the dependencies for executing the code 
       
